@@ -29,6 +29,7 @@ h1 {
 
 section {
   height: 500px;
+  padding-bottom: 160px;
 }
 
 .link-button {
